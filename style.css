@@ -1,0 +1,90 @@
+#private_png{
+    width: 40px;
+    margin-right: 20px;
+}
+.nav-item{
+    text-align: center;
+
+}
+.nav-link:hover{
+    background-color: rgb(255, 251, 251);
+ 
+}
+#heading{
+    background-color:rgb(0,123,255);
+    color: white;
+    padding: 30px;
+    text-align: center;
+  
+    
+}
+#heading2{
+    background-color:rgb(0,123,255) ;
+    padding: 25px;
+    text-align: center;
+    color: rgb(254, 255, 253);
+    margin-bottom: 5px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    
+}
+
+#download{
+    margin: 30px;
+    padding: 10px;
+    color:white;
+    font-size: large;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(0,123,255);
+    text-decoration: none;
+
+}
+#download:hover{
+    opacity: 70%;
+}
+#download2{
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid rgb(0,123,255);
+    font-size: large;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+
+.download-link{
+color: white;
+text-decoration: none;
+text-align: center;
+}
+#private-file-heading{
+   
+    padding: 40px;
+    text-align: center;
+    size: 80px;
+}
+#textaboutprivateshare{
+    text-align: center;
+    padding: 5px;
+}
+.heading3{
+    text-align: center;
+    padding: 30px;
+}
+.font-style{
+    text-align: center;
+    padding: 10px;
+}
+.col-md-3{
+    text-align: center;
+}
+.col-md-4{
+    text-align: center;
+}
+#down-border{
+    border-top-left-radius:40px;
+    border-top-right-radius:40px;
+}
